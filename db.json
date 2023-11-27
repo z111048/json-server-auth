@@ -2010,121 +2010,121 @@
   "users": [
     {
       "id": 1,
-      "email": "john@email.com",
+      "email": "john@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "john"
     },
     {
       "id": 2,
-      "email": "emily@email.com",
+      "email": "emily@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "emily"
     },
     {
       "id": 3,
-      "email": "michael@email.com",
+      "email": "michael@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "michael"
     },
     {
       "id": 4,
-      "email": "sarah@email.com",
+      "email": "sarah@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "sarah"
     },
     {
       "id": 5,
-      "email": "david@email.com",
+      "email": "david@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "david"
     },
     {
       "id": 6,
-      "email": "olivia@email.com",
+      "email": "olivia@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "olivia"
     },
     {
       "id": 7,
-      "email": "ethan@email.com",
+      "email": "ethan@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "ethan"
     },
     {
       "id": 8,
-      "email": "ava@email.com",
+      "email": "ava@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "ava"
     },
     {
       "id": 9,
-      "email": "jacob@email.com",
+      "email": "jacob@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "jacob"
     },
     {
       "id": 10,
-      "email": "mia@email.com",
+      "email": "mia@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "mia"
     },
     {
       "id": 11,
-      "email": "alexander@email.com",
+      "email": "alexander@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "alexander"
     },
     {
       "id": 12,
-      "email": "amelia@email.com",
+      "email": "amelia@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "amelia"
     },
     {
       "id": 13,
-      "email": "james@email.com",
+      "email": "james@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "james"
     },
     {
       "id": 14,
-      "email": "isabella@email.com",
+      "email": "isabella@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "isabella"
     },
     {
       "id": 15,
-      "email": "benjamin@email.com",
+      "email": "benjamin@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "benjamin"
     },
     {
       "id": 16,
-      "email": "sofia@email.com",
+      "email": "sofia@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "sofia"
     },
     {
       "id": 17,
-      "email": "charlotte@email.com",
+      "email": "charlotte@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "charlotte"
     },
     {
       "id": 18,
-      "email": "logan@email.com",
+      "email": "logan@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "logan"
     },
     {
       "id": 19,
-      "email": "harper@email.com",
+      "email": "harper@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "harper"
     },
     {
       "id": 20,
-      "email": "lucas@email.com",
+      "email": "lucas@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
       "nickname": "lucas"
     }
