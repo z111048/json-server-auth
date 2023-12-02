@@ -2012,121 +2012,141 @@
       "id": 1,
       "email": "john@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "john"
+      "nickname": "john",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_1.png"
     },
     {
       "id": 2,
       "email": "emily@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "emily"
+      "nickname": "emily",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_2.png"
     },
     {
       "id": 3,
       "email": "michael@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "michael"
+      "nickname": "michael",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_3.png"
     },
     {
       "id": 4,
       "email": "sarah@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "sarah"
+      "nickname": "sarah",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_4.png"
     },
     {
       "id": 5,
       "email": "david@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "david"
+      "nickname": "david",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_5.png"
     },
     {
       "id": 6,
       "email": "olivia@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "olivia"
+      "nickname": "olivia",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_6.png"
     },
     {
       "id": 7,
       "email": "ethan@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "ethan"
+      "nickname": "ethan",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_7.png"
     },
     {
       "id": 8,
       "email": "ava@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "ava"
+      "nickname": "ava",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_8.png"
     },
     {
       "id": 9,
       "email": "jacob@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "jacob"
+      "nickname": "jacob",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_9.png"
     },
     {
       "id": 10,
       "email": "mia@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "mia"
+      "nickname": "mia",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_10.png"
     },
     {
       "id": 11,
       "email": "alexander@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "alexander"
+      "nickname": "alexander",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_11.png"
     },
     {
       "id": 12,
       "email": "amelia@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "amelia"
+      "nickname": "amelia",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_12.png"
     },
     {
       "id": 13,
       "email": "james@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "james"
+      "nickname": "james",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_13.png"
     },
     {
       "id": 14,
       "email": "isabella@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "isabella"
+      "nickname": "isabella",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_14.png"
     },
     {
       "id": 15,
       "email": "benjamin@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "benjamin"
+      "nickname": "benjamin",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_15.png"
     },
     {
       "id": 16,
       "email": "sofia@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "sofia"
+      "nickname": "sofia",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_16.png"
     },
     {
       "id": 17,
       "email": "charlotte@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "charlotte"
+      "nickname": "charlotte",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_17.png"
     },
     {
       "id": 18,
       "email": "logan@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "logan"
+      "nickname": "logan",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_18.png"
     },
     {
       "id": 19,
       "email": "harper@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "harper"
+      "nickname": "harper",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_19.png"
     },
     {
       "id": 20,
       "email": "lucas@gmail.com",
       "password": "$2a$10$r3wWABMUCmZYBVWTmIM6SemURi.qYGWkHwOyoDxtsJmo9zj8lHTWy",
-      "nickname": "lucas"
+      "nickname": "lucas",
+      "picture": "https://raw.githubusercontent.com/ahmomoz/WhatDrink17/main/assets/images/member_pic/cropped_portrait_20.png"
     }
   ],
   "userDrinkCollections": [
